@@ -1,7 +1,3 @@
 # test
 
-EZ
-
-qX
-
-scq
+c'est propre !
